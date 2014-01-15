@@ -11,3 +11,13 @@
 *.lai
 *.la
 *.a
+
+# temp stuff
+*.swp
+Gemfile.lock
+
+# the Binaries themselves
+data/meterpreter/*
+
+# and the generated output
+pkg/*
