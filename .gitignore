@@ -17,7 +17,7 @@
 Gemfile.lock
 
 # the Binaries themselves
-data/meterpreter/*
+meterpreter/*
 
 # and the generated output
 pkg/*

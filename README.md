@@ -1,7 +1,13 @@
 # Meterpreter Binaries
 
 This gem is a Metasploit-specific gem that contains all of the
-compiled binaries for the Meterpreter payload.
+compiled binaries for the Meterpreter payload. This is made up of:
+
+* Windows DLLs
+* POSIX LSOs
+* POSIX BIN
+
+The other files have been left alone for now.
 
 ## Installation
 
