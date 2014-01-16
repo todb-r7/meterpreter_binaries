@@ -1,4 +1,4 @@
-# encoding: UTF-8
+# -*- coding:binary -*-
 
 require 'meterpreter_binaries/version' unless defined? MeterpreterBinaries::VERSION
 

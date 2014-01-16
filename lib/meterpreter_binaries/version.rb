@@ -1,4 +1,4 @@
-# encoding: UTF-8
+# -*- coding:binary -*-
 module MeterpreterBinaries
   VERSION = '0.0.3'
 end
