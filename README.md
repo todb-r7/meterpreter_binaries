@@ -19,8 +19,7 @@ download and install Metasploit itself.
 
 To build the gem:
 
-1. Open `meterpreter_binaries.gemspec` and change the `spec.version`
-  value to the appropriate number.
+1. Update the version number in `lib/meterpreter_binaries/version.rb`
 1. Copy the updated binaries into the `data/meterpreter` folder.
 1. Run `rake build` to generate the new gem file.
 1. Run `rake release` to release the binary to RubyGems.
